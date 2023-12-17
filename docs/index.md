@@ -7,7 +7,7 @@ hero:
   text: "エピソードコレクション"
   tagline: アメ車カスタムショップリアリティショーのYouTubeリンク集
   image:
-    src: /images/_6b7c666f-f660-4f6a-a1fc-00454622be00.png
+    src: /_6b7c666f-f660-4f6a-a1fc-00454622be00.jpg
     alt: hero-image
   actions:
     - theme: brand
