@@ -6,7 +6,9 @@ hero:
   name: "カウンティング・カーズ"
   text: "エピソードコレクション"
   tagline: アメ車カスタムショップリアリティショーのYouTubeリンク集
-  image: {src: /_6b7c666f-f660-4f6a-a1fc-00454622be00.jpg, alt: 'hero-image'}
+  image:
+    src: /_6b7c666f-f660-4f6a-a1fc-00454622be00.png
+    alt: hero-image
   actions:
     - theme: brand
       text: カウンティング・カーズってなに？
