@@ -1,0 +1,13 @@
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe, #ff4141);
+  --vp-home-hero-image-background-image: -webkit-linear-gradient(120deg, #bd34fe, #ff4141);
+
+  --vp-font-family-base: 'Yusei Magic', sans-serif;
+  --vp-font-family-mono: 'Yusei Magic', sans-serif;
+}
+iframe {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+    height: auto;
+}
