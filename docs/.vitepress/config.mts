@@ -2,9 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  outDir: '../public',
   title: "Home",
-  titleTemplate: 'エピソード :title だぜ兄弟！| CKEC',
+  titleTemplate: 'エピソード :title だぜ兄弟！| CKYC',
   description: "A VitePress Site",
   lang: 'ja-JP',
   head: [
@@ -24,8 +23,8 @@ export default defineConfig({
   ],
   themeConfig: {
 
-    siteTitle: 'CKエピソードコレクション',
-
+    siteTitle: 'カウンティング・カーズ YouTubeリンク集',
+    search: {provider: 'local'},
     aside: true,
 
     outline: { level: 'deep', label: 'チャプター'},
@@ -62,7 +61,8 @@ export default defineConfig({
           { text: '78', link: '/episodes/078' },
           { text: '79', link: '/episodes/079' },
           { text: '80', link: '/episodes/080' },
-          { text: '81', link: '/episodes/081' }
+          { text: '81', link: '/episodes/081' },
+          { text: '82', link: '/episodes/082' }
         ]
       }
     ]
