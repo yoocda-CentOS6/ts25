@@ -11,15 +11,18 @@ hero:
     alt: hero-image
   actions:
     - theme: brand
-      text: 初めから見る
+      text: 初めから観る
       link: /episodes/
+#    - theme: alt
+#      text: このリンク集について…
+#      link: /episodes/
 
 features:
-  - title: カウンティング・カーズってなに？
-    details: カウンティング・カーズについて知ろう！
-    link: /what_is/counting_cars
-  - title: このYouTubeリンク集ついて…
-    details: 管理者トニーからのお知らせ！
+#  - title: カウンティング・カーズってなに？
+#    details: カウンティング・カーズについて知ろう！
+#    link: /what_is/counting_cars
+  - title: このリンク集ついて…
+#    details: 管理者トニーからのお知らせ！
     link: /about/this_link_collection
 #  - title: 登場人物から探す
 #    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit

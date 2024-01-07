@@ -22,20 +22,13 @@ export default defineConfig({
     ]
   ],
   themeConfig: {
-
     siteTitle: 'カウンティング・カーズ YouTubeリンク集',
     search: {provider: 'local'},
     aside: true,
-
-    outline: { level: 'deep', label: 'チャプター'},
-
-    footer: {
-      message: 'Released under the MIT License.'
-    },
-
+    outline: {level: 'deep', label: 'チャプター'},
+    footer: {message: 'Released under the MIT License.'},
     // https://vitepress.dev/reference/default-theme-config
     nav: [],
-
     sidebar: [
       {
         text: 'エピソード番号',
@@ -65,13 +58,10 @@ export default defineConfig({
           { text: '82', link: '/episodes/082' }
         ]
       }
-    ]
-
-    /*
+    ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/yoocda-CentOS6/ts25' }
     ]
-    */
   }
 })
 

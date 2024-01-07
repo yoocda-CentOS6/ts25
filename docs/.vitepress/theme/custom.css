@@ -11,3 +11,8 @@ iframe {
     width: 100%;
     height: auto;
 }
+@media (min-width: 960px) {
+  .title {
+    text-wrap: wrap;
+  }
+}
