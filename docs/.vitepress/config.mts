@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  outDir: '/.vitepress/dist',
+  outDir: '.vitepress/dist',
   title: "Home",
   titleTemplate: 'エピソード :title だぜ兄弟！| CKYC',
   description: "A VitePress Site",
