@@ -3,8 +3,8 @@
     "vitepress": "^1.0.0-rc.25"
   },
   "scripts": {
-    "docs:dev": "vitepress dev docs --host",
-    "docs:build": "vitepress build docs --host",
-    "docs:preview": "vitepress preview docs --host"
+    "docs:dev": "vitepress dev docs --host  --outDir public",
+    "docs:build": "vitepress build docs --host  --outDir public",
+    "docs:preview": "vitepress preview docs --host  --outDir public"
   }
 }
