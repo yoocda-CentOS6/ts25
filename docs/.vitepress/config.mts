@@ -11,14 +11,14 @@ export default defineConfig({
     ['link',{ rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
     ['link',{ rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
     ['link',{ href: 'https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap', rel: 'stylesheet' }],
-    ['script',{ async: '', src: 'https://www.googletagmanager.com/gtag/js?id=TAG_ID' }],
+    ['script',{ async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-9BZ3PCBW1H' }],
     [
       'script',
       {},
       `window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', 'TAG_ID');`
+      gtag('config', 'G-9BZ3PCBW1H');`
     ]
   ],
   themeConfig: {
