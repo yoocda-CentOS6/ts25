@@ -3,8 +3,20 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Home",
-  titleTemplate: 'エピソード :title だぜ兄弟！| CKYC',
+  titleTemplate: 'エピソード :title だぜ兄弟！| CCYC',
   description: "A VitePress Site",
+  locales: {
+    root: {
+      label: '日本語',
+      lang: 'ja-JP',
+      link: '/'
+    },
+    en: {
+      label: 'English',
+      lang: 'en-US',
+//      link: '/en-US/'
+    }
+  },
   lang: 'ja-JP',
   head: [
     ['link',{ rel: 'icon', href: '/favicon.ico' }],

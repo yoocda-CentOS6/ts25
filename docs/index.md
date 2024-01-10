@@ -22,8 +22,8 @@ features:
 #    details: カウンティング・カーズについて知ろう！
 #    link: /what_is/counting_cars
   - title: このリンク集ついて…
-#    details: 管理者トニーからのお知らせ！
-    link: /about/this_link_collection
+    details: このリンク集からご覧いただけるYouTube動画の著作権は、ヒストリーチャンネル公式(https://www.youtube.com/@HISTORYjp)が所有しています。<br>また、すべての動画はヒストリーチャンネル公式によってYouTubeにアップされたものです。<br>このリンク集はヒストリーチャンネルとは一切関係ありません。<br>また、著作権者の権利を侵害する目的も一切ありません。<br>ヒストリーチャンネルとカウンツ・カスタムズ、並びにカウンティング・カーズの制作に関わったすべての人に敬意を表し、その素晴らしさを主に日本国内向けに広めようとするものです。
+#    link: /about/this_link_collection
 #  - title: 登場人物から探す
 #    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 #    link: /fuga/010
