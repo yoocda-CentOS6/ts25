@@ -16,9 +16,9 @@ export default defineConfig({
       lang: 'en-US'
     }
   },
-  rewrites: {
-    'en/episodes/index.md': 'en/index.md'
-  },
+  //rewrites: {
+  //  'en/episodes/index.md': 'en/index.md'
+  //},
   lang: 'ja-JP',
   head: [
     ['link',{ rel: 'icon', href: '/favicon.ico' } ],
