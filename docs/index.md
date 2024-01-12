@@ -7,7 +7,7 @@ hero:
   text: "YouTubeリンク集"
   tagline: アメ車カスタムショップリアリティショーのYouTubeリンク集
   image:
-    src: /_6b7c666f-f660-4f6a-a1fc-00454622be00.jpg
+    src: /_edb414b8-e355-436e-9395-94a8d2cc3c66.jpg
     alt: hero-image
   actions:
     - theme: brand
