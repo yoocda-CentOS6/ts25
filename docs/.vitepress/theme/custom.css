@@ -16,3 +16,10 @@ iframe {
     text-wrap: wrap;
   }
 }
+/*
+.vp-doc h2 {
+  background: var(--vp-home-hero-name-background);
+  background-clip: text;
+  color: var(--vp-home-hero-name-color);
+}
+*/
