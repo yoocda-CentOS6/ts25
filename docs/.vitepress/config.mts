@@ -36,41 +36,12 @@ export default defineConfig({
   themeConfig: {
     siteTitle: 'カウンティング・カーズ YouTubeリンク集',
     search: {provider: 'local'},
-    aside: true,
-    outline: {level: 'deep', label: 'チャプター'},
+    aside: 'left',
+    outline: {level: [2,2], label: 'エピソード一覧'},
     footer: {message: 'Released under the MIT License.'},
     // https://vitepress.dev/reference/default-theme-config
     nav: [],
-    sidebar: [
-      {
-        text: 'エピソード番号',
-        items: [
-          { text: '7', link: '/episodes/007' },
-          { text: '8', link: '/episodes/008' },
-          { text: '9', link: '/episodes/009' },
-          { text: '10', link: '/episodes/010' },
-          { text: '11', link: '/episodes/011' },
-          { text: '14', link: '/episodes/014' },
-          { text: '17', link: '/episodes/017' },
-          { text: '21', link: '/episodes/021' },
-          { text: '22', link: '/episodes/022' },
-          { text: '40', link: '/episodes/040' },
-          { text: '41', link: '/episodes/041' },
-          { text: '68', link: '/episodes/068' },
-          { text: '69', link: '/episodes/069' },
-          { text: '70', link: '/episodes/070' },
-          { text: '73', link: '/episodes/073' },
-          { text: '74', link: '/episodes/074' },
-          { text: '75', link: '/episodes/075' },
-          { text: '76', link: '/episodes/076' },
-          { text: '78', link: '/episodes/078' },
-          { text: '79', link: '/episodes/079' },
-          { text: '80', link: '/episodes/080' },
-          { text: '81', link: '/episodes/081' },
-          { text: '82', link: '/episodes/082' }
-        ]
-      }
-    ],
+    
     socialLinks: [
       { icon: 'github', link: 'https://github.com/yoocda-CentOS6/ts25' }
     ]
