@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Home",
-  titleTemplate: 'エピソード :title だぜ兄弟！| CCYC',
+  titleTemplate: ':title だぜ兄弟！| CCYC',
   description: "A VitePress Site",
   locales: {
     root: {
