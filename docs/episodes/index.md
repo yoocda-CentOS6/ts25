@@ -546,24 +546,6 @@ https://youtu.be/i3M0dYn6-vg?si=kMcbWBElEhnx4LA4
 
 https://youtu.be/_eVYFmA0vG0?si=Pgzw7TVM3Lz3X5zH
 
-## 99 1974年式プリムス・ロードランナー
-
-### 1
-
-https://youtu.be/RqZPmd6WPf4?si=E_gYG3RlSXBZAk2Y
-
-### 2
-
-https://youtu.be/UhY05bGJotw?si=m0ScxMuJWOGW_ssA
-
-### 3
-
-https://youtu.be/Ik8CRJXvIWc?si=-pIfJF--ttg8nKEY
-
-### 4
-
-https://youtu.be/6W5bOnnay44?si=O5SQT5rbcmxEkRMt
-
 ## 100 ハーレートライク
 
 ### 1
