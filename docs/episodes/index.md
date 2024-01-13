@@ -1,4 +1,42 @@
-# エピソード一覧
+# カウンティング・カーズ エピソード一覧
+
+ヒストリーチャンネルとカウンツ・カスタムズ、並びにカウンティング・カーズの制作に関わったすべての人に敬意と感謝を表し称えます。
+
+::: danger **警告**
+このリンク集からご覧いただけるすべての動画の著作権は、[ヒストリーチャンネル公式](https://www.youtube.com/@HISTORYjp) が所有しています。<br>また、すべての動画はヒストリーチャンネル公式によってYouTubeにアップされたものです。
+:::
+
+::: warning **ご注意**
+このリンク集はヒストリーチャンネルとは一切関係ありません。<br>また、著作権者の権利や利益を侵害する目的も一切ありません。
+:::
+
+## エピソードの見かた
+
+各エピソードは、前半と後半の2分割、1～4の4分割、前編1~4と後編1～4の8分割のいずれかに分かれています。
+
+動画のタイトルにも「前半・後半」や、「1」「2」…のように番号が振られていますが、正確でない場合があります。
+
+「前半・後半」や番号が振られていないもの、前編と後編のエピソードが離れているものがあります。
+
+このページでは、リンクしている動画をすべて視聴して確認し、順番やつながりを整理したうえで各エピソードを最初から最後まで楽しめるよう、正しい順番に並べてあります。
+
+## - シボレー・カマロ
+
+### 1
+
+https://youtu.be/5rJMHlhpTXw?si=HwXb0bqhEJEq1rBc
+
+### 2
+
+https://youtu.be/v7Rrs_hf6L8?si=N7d4E1IjVEEq7Z7a
+
+### 3
+
+https://youtu.be/UFhXg3P2CEI?si=cV_jKG5r3-SFsRXX
+
+### 4
+
+https://youtu.be/NgKbDRylWFU?si=xGGjyKXtV0gsKFJS
 
 ## 7 車いす+ハーレー
 
@@ -70,7 +108,7 @@ https://youtu.be/Yr1Xd6AERhg?si=V9uJCpMhSilf2QC-
 
 https://youtu.be/l3R6iNA4CRw?si=xt2gl7Cwo5L9jB7K
 
-## 21 シボレー・ステーションワゴン
+## 21 シボレー・セダンデリバリー
 
 ### 前半
 
@@ -120,6 +158,9 @@ https://youtu.be/-2UeFCtwaGc?si=mu9oK4Sf73WjTE2q
 
 ## 68 ビュイック・リビエラ（前編）
 
+::: info 後編は [69 ビュイック・リビエラ（後編）](#_69-%E3%83%92%E3%82%99%E3%83%A5%E3%82%A4%E3%83%83%E3%82%AF%E3%83%BB%E3%83%AA%E3%83%92%E3%82%99%E3%82%A8%E3%83%A9-%E5%BE%8C%E7%B7%A8)
+:::
+
 ### 前編-1
 
 https://youtu.be/UCXfQ_nDN7g?si=7etMjESlhUI-wqEU
@@ -135,9 +176,6 @@ https://youtu.be/VF5NKkAgVl8?si=_ZyzaL-lOHHmPyQf
 ### 前編-4
 
 https://youtu.be/vsHA_mXChTE?si=DYLsqXdHYkaJgwSa
-
-::: info 後編は [69 ビュイック・リビエラ（後編）](#_69-%E3%83%92%E3%82%99%E3%83%A5%E3%82%A4%E3%83%83%E3%82%AF%E3%83%BB%E3%83%AA%E3%83%92%E3%82%99%E3%82%A8%E3%83%A9-%E5%BE%8C%E7%B7%A8)
-:::
 
 ## 69 ビュイック・リビエラ（後編）
 
@@ -177,6 +215,16 @@ https://youtu.be/IvLYX_394eo?si=G7wuUUaE3GVFV99Z
 ### 4
 
 https://youtu.be/ACOCl4JjP1M?si=o0EqtrFdXHQhFJFm
+
+## 71 ラットロッドとダニーのシボレー・モンテカルロ
+
+### 前半
+
+https://youtu.be/3NQFzKUUZJo?si=l6sUrR_zXatYtAx6
+
+### 後半
+
+https://youtu.be/xtPStCMX76E?si=VG9u8vq6z7rzIf0s
 
 ## 73 ダニーのジュークボックス
 
@@ -324,6 +372,9 @@ https://youtu.be/jWi1Huu4oKw?si=K3HAyx3vjANJ5GgR
 
 ## 82 フォード・ブロンコ（前編）
 
+::: info 後編は [91 フォード・ブロンコ（後編）](#_91-%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%82%99%E3%83%BB%E3%83%95%E3%82%99%E3%83%AD%E3%83%B3%E3%82%B3-%E5%BE%8C%E7%B7%A8)
+:::
+
 ### 前編-1
 
 https://youtu.be/3Cp3Xj0k3Zs?si=Nif9utduUvrMFBDU
@@ -340,10 +391,10 @@ https://youtu.be/b341vRMvGFA?si=Z2hGaBHWpLZA12V2
 
 https://youtu.be/fBQKACIg9Rk?si=tayOi0a-t3nLNJf5
 
-::: info 後編は [91 フォード・ブロンコ（後編）](#_91-%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%82%99%E3%83%BB%E3%83%95%E3%82%99%E3%83%AD%E3%83%B3%E3%82%B3-%E5%BE%8C%E7%B7%A8)
-:::
-
 ## 83 フォードトラック（前編）
+
+::: info 後編は [フォードトラック（後編）](#_94-%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%82%99%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-%E5%BE%8C%E7%B7%A8)
+:::
 
 ### 前編-1
 
@@ -353,18 +404,23 @@ https://youtu.be/kEuuHxjJgyg?si=AVBj10ACcNaT3DMh
 
 https://youtu.be/K9X-ZDvxQSU?si=dXMrp2pJay05x1MA
 
-::: info 後編は [フォードトラック（後編）](#_94-%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%82%99%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-%E5%BE%8C%E7%B7%A8)
-:::
-
 ## 84 シボレー・インパラ・ファストバック
 
-### 前半
+### 1
 
 https://youtu.be/R4j7bozccGA?si=YBFurMI1i6rQkz_4
 
-### 後半
+### 2
 
 https://youtu.be/o-HD1TQc9Os?si=xaT-M7w4Ghwrb4_7
+
+### 3
+
+https://youtu.be/HGPx99RhAf0?si=bQafiiBBbWCPk6pR
+
+### 4
+
+https://youtu.be/GEESocW0XxQ?si=v548Bb7IrUpI2Z45
 
 ## 91 フォード・ブロンコ（後編）
 
@@ -466,6 +522,9 @@ https://youtu.be/wDn0LMMwoLk?si=wxZqWiRNVjyvFHEn
 
 ## 97 シボレー・カマロ Z28（前編）
 
+::: info 後編は [98 シボレー・カマロ Z28（後編）](#_98-%E3%82%B7%E3%83%9B%E3%82%99%E3%83%AC%E3%83%BC%E3%83%BB%E3%82%AB%E3%83%9E%E3%83%AD-z28-%E5%BE%8C%E7%B7%A8)
+:::
+
 ### 前編-1
 
 https://youtu.be/JyEBAbdGzkg?si=pAps6w8NxCeI2NUR
@@ -473,9 +532,6 @@ https://youtu.be/JyEBAbdGzkg?si=pAps6w8NxCeI2NUR
 ### 前編-2
 
 https://youtu.be/w1K3vNk77fg?si=_RII9MrLsW_lY_ax
-
-::: info 後編は [98 シボレー・カマロ Z28（後編）](#_98-%E3%82%B7%E3%83%9B%E3%82%99%E3%83%AC%E3%83%BC%E3%83%BB%E3%82%AB%E3%83%9E%E3%83%AD-z28-%E5%BE%8C%E7%B7%A8)
-:::
 
 ## 98 シボレー・カマロ Z28（後編）
 
@@ -525,5 +581,4 @@ https://youtu.be/_NJIqVlG_3Q?si=oBjyY7JlkDwCxBjP
 ### 4
 
 https://youtu.be/DF-mkuEm86Q?si=gxcLsISoCmYFlmA0
-
 
