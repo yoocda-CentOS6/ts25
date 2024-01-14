@@ -1,6 +1,6 @@
 # カウンティング・カーズ エピソード一覧
 
-ヒストリーチャンネルとカウンツ・カスタムズ、並びにカウンティング・カーズの制作に関わったすべての人に敬意と感謝を表し称えます。
+ヒストリーチャンネルとカウンツ・カスタムズ、並びにカウンティング・カーズの制作に関わったすべての人に敬意と感謝を表し、その優れた功績を称えます。
 
 ::: danger **警告**
 このリンク集からご覧いただけるすべての動画の著作権は、[ヒストリーチャンネル公式](https://www.youtube.com/@HISTORYjp) が所有しています。<br>また、すべての動画はヒストリーチャンネル公式によってYouTubeにアップされたものです。
@@ -14,9 +14,7 @@
 
 各エピソードは、前半と後半の2分割、1～4の4分割、前編1~4と後編1～4の8分割のいずれかに分かれています。
 
-動画のタイトルにも「前半・後半」や、「1」「2」…のように番号が振られていますが、正確でない場合があります。
-
-「前半・後半」や番号が振られていないもの、前編と後編のエピソードが離れているものがあります。
+ただし、動画のタイトルの「前半・後半」や、「1」「2」…の番号は、正確でない場合があります。
 
 このページでは、リンクしている動画をすべて視聴して確認し、順番やつながりを整理したうえで各エピソードを最初から最後まで楽しめるよう、正しい順番に並べてあります。
 
@@ -546,6 +544,24 @@ https://youtu.be/i3M0dYn6-vg?si=kMcbWBElEhnx4LA4
 
 https://youtu.be/_eVYFmA0vG0?si=Pgzw7TVM3Lz3X5zH
 
+## 99 1974年式プリムス・ロードランナー
+
+### 1
+
+https://youtu.be/RqZPmd6WPf4?si=E_gYG3RlSXBZAk2Y
+
+### 2
+
+https://youtu.be/UhY05bGJotw?si=m0ScxMuJWOGW_ssA
+
+### 3
+
+https://youtu.be/Ik8CRJXvIWc?si=-pIfJF--ttg8nKEY
+
+### 4
+
+https://youtu.be/6W5bOnnay44?si=O5SQT5rbcmxEkRMt
+
 ## 100 ハーレートライク
 
 ### 1
@@ -564,3 +580,117 @@ https://youtu.be/_NJIqVlG_3Q?si=oBjyY7JlkDwCxBjP
 
 https://youtu.be/DF-mkuEm86Q?si=gxcLsISoCmYFlmA0
 
+## 101 デューンバギー/67コルベットコンバーチブル
+
+### 1
+
+https://youtu.be/XRStYr5hIWs?si=p9tZden1EbHrBySF
+
+### 2
+
+https://youtu.be/3_boQwLzFkE?si=v4xKdj22uCwOl0vr
+
+### 3
+
+https://youtu.be/D8ajA6287pQ?si=5Ag5-qCIrBsW0TW1
+
+### 4
+
+https://youtu.be/iC8DONg7FAM?si=6NEH32XbU8kTtNIU
+
+## 102 ハーレー・スポーツスター、ダニーのインパラ・コップカー
+
+### 1
+
+https://youtu.be/1D-h9sq3maQ?si=GMttM0ObPnBmUMDx
+
+### 2
+
+https://youtu.be/JBD-BiobjsA?si=uRstW7VHo_ZzFb9v
+
+### 3
+
+https://youtu.be/fBPW2CaneWE?si=V0Uk1tr9Vbli9MaH
+
+### 4
+
+https://youtu.be/k_hYZimmfP4?si=GAWb0NuhLMae22ms
+
+## 103 1962年式キャデラック（前編）
+
+::: info 後編は [104 1962年式キャデラック（後編）](#_104-1962%E5%B9%B4%E5%BC%8F%E3%82%AD%E3%83%A3%E3%83%86%E3%82%99%E3%83%A9%E3%83%83%E3%82%AF-%E5%BE%8C%E7%B7%A8)
+:::
+
+### 1
+
+https://youtu.be/TL1G3hniw48?si=YaJ-zcZK6GTs3X80
+
+### 2
+
+https://youtu.be/nlyg6KDPRts?si=bRYfxszAWTPrec8d
+
+### 3
+
+https://youtu.be/t8RTUnojrco?si=9J4jUs_ygo4lD8uJ
+
+### 4
+
+https://youtu.be/sbXT0bkZ41c?si=cHVJIQnVq5Bq-Uk7
+
+
+## 104 1962年式キャデラック（後編）
+
+::: info 前編は [103 1962年式キャデラック（前編）](#_103-1962%E5%B9%B4%E5%BC%8F%E3%82%AD%E3%83%A3%E3%83%86%E3%82%99%E3%83%A9%E3%83%83%E3%82%AF-%E5%89%8D%E7%B7%A8)
+:::
+
+### 1
+
+https://youtu.be/pPf_Xep2n1k?si=qaacDQ2YJ2ySIXiO
+
+### 2
+
+https://youtu.be/LOIHHtrUSiw?si=skvMDOV9pei1LAY0
+
+### 3
+
+https://youtu.be/eU7yDVFyfXs?si=smo1PZw-UfOU9Pgm
+
+### 4
+
+https://youtu.be/t23GK98M5nM?si=O2DF-k1Hoy0MA8fN
+
+## 106 カジノ仕様ハーレー・ダビッドソン
+
+### 1
+
+https://youtu.be/sNsoMu4PNZ0?si=GTSUXZhWMHD9K140
+
+### 2
+
+https://youtu.be/9O6o7Mnwhtw?si=EZ6JKcZE7vBBNAP-
+
+### 3
+
+https://youtu.be/K2sVDOUvWYo?si=lQi8KbVRaxQnmt8E
+
+### 4
+
+https://youtu.be/NP8HPq9NHGo?si=Evo1n6JYaRKZGYcu
+
+## 107 1974年式フォード・F100
+
+### 1
+
+https://youtu.be/Tqb9gHIHR0A?si=uEEykeQ2YHbLdaki
+
+### 2
+
+https://youtu.be/DbEQ2wn2tiE?si=1kxczLIdXe7iaPG1
+
+### 3
+
+https://youtu.be/1Rk0Hb_cxYA?si=5DWjbuPw9epucuSj
+
+### 4
+
+https://youtu.be/8Z3OvlSRun8?si=qhv0Hcyop8ftnHSX
