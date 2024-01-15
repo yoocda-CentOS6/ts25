@@ -7,3 +7,13 @@ Also, it is not intended to infringe on the rights of copyright holders.<br>This
 This site was created privately and unofficially by the administrator (https://github.com/yoocda-CentOS6).
 
 If you need contact to me, send DM via X (https://twitter.com/tweetie_vader).
+
+ヒストリーチャンネルとカウンツ・カスタムズ、並びにカウンティング・カーズの制作に関わったすべての人に敬意と感謝を表し、その優れた功績を称えます。
+
+このリンク集からご覧いただけるYouTube動画の著作権は、ヒストリーチャンネル公式(https://www.youtube.com/@HISTORYjp)が所有しています。
+また、すべての動画はヒストリーチャンネル公式によってYouTubeにアップされたものです。
+
+このリンク集はヒストリーチャンネルとは一切関係ありません。<br>また、著作権者の権利を侵害する目的も一切ありません。
+ヒストリーチャンネルとカウンツ・カスタムズ、カウンティング・カーズの素晴らしさを主に日本国内向けに広めようとするものです。
+
+このリンク集は、管理人(https://github.com/yoocda-CentOS6)により非公式かつ個人的に作成されました。
