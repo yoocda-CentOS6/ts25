@@ -1,0 +1,9 @@
+We would like to express our respect and gratitude to the History Channel, Counts Kustoms, and everyone involved in the production of Counting Cars, and celebrate their outstanding achievements.
+
+The copyright of all videos that can be viewed on this site is owned by [History Channel Official] (https://www.youtube.com/@HISTORYjp). 
+Also, all videos are uploaded to YouTube by History Channel official.<br><br>This site is in no way affiliated with the History Channel.
+Also, it is not intended to infringe on the rights of copyright holders.<br>This is an attempt to spread the greatness of the History Channel, Counts Kustoms, and Counting Cars primarily within Japan. Thank you.
+
+This site was created privately and unofficially by the administrator (https://github.com/yoocda-CentOS6).
+
+If you need contact to me, send DM via X (https://twitter.com/tweetie_vader).
