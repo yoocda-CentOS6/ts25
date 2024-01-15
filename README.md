@@ -1,4 +1,4 @@
-# READ ME
+# README
 
 We would like to express our respect and gratitude to the History Channel, Counts Kustoms, and everyone involved in the production of Counting Cars, and celebrate their outstanding achievements.
 
