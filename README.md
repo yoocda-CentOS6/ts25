@@ -16,4 +16,4 @@ If you need contact to me, send DM via X (https://twitter.com/tweetie_vader).
 このリンク集はヒストリーチャンネルとは一切関係ありません。<br>また、著作権者の権利を侵害する目的も一切ありません。
 ヒストリーチャンネルとカウンツ・カスタムズ、カウンティング・カーズの素晴らしさを主に日本国内向けに広めようとするものです。
 
-このリンク集は、管理人(https://github.com/yoocda-CentOS6)により非公式かつ個人的に作成されました。
+このリンク集は、管理人(https://github.com/yoocda-CentOS6) により非公式かつ個人的に作成されました。
