@@ -46,10 +46,17 @@ export default defineConfig({
       { text: 'ヒストリーチャンネル', link: 'https://jp.history.com/' },
       { text: 'ヒストリーチャンネル@YouTube', link: 'https://www.youtube.com/@HISTORYjp' },
       { text: 'カウンツ・カスタムズ', link: 'https://www.countskustoms.com/index.html' }
-  ],
+    ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/yoocda-CentOS6/ts25' }
-    ]
+    ],
+    lastUpdated: {
+      text: 'Updated at',
+      formatOptions: {
+        dateStyle: 'full',
+        timeStyle: 'medium'
+      }
+    }
   }
 })
 
