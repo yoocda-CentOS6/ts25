@@ -55,7 +55,7 @@ export default defineConfig({
       formatOptions: {
         dateStyle: 'full',
         timeStyle: 'medium',
-        timeZone: 'Asia/Tokyo'
+        timeZone: 'Asia/Japan'
       }
     }
   }
