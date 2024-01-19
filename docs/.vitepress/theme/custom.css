@@ -11,15 +11,20 @@ iframe {
     width: 100%;
     height: auto;
 }
+
+.image-container .img-src {
+  content: url('../../images/_edb414b8-e355-436e-9395-94a8d2cc3c66.jpg');
+}
+
 @media (min-width: 960px) {
   .title {
     text-wrap: wrap;
   }
+
+  .VPNavBar.has-sidebar .curtain {
+    bottom: -32px !important;
+  }
+  .VPNavBar.has-sidebar .title {
+    border-bottom-color: transparent !important;
+  }
 }
-/*
-.vp-doc h2 {
-  background: var(--vp-home-hero-name-background);
-  background-clip: text;
-  color: var(--vp-home-hero-name-color);
-}
-*/
