@@ -51,10 +51,11 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/yoocda-CentOS6/ts25' }
     ],
     lastUpdated: {
-      text: 'Updated at',
+      text: '最終更新',
       formatOptions: {
         dateStyle: 'full',
-        timeStyle: 'medium'
+        timeStyle: 'medium',
+        timeZone: 'Asia/Tokyo'
       }
     }
   }
